@@ -1,0 +1,22 @@
+.genres_title {
+  color: white;
+  text-align: center;
+}
+
+.genres_box {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  gap:1rem
+}
+
+.genre {
+  text-align: center;
+  font-weight: 500;
+  border-radius: 5rem;
+  background-color: rgb(227, 95, 59);
+  cursor: pointer;
+}
+.genre:hover {
+  background-color:  rgba(247, 143, 7, 0.995);
+  color: white;
+}

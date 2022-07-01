@@ -1,0 +1,47 @@
+.row {
+  margin-left: 20px;
+  color: azure;
+}
+
+.posters {
+  display: flex;
+  padding: 20px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+.posters::-webkit-scrollbar{
+  display: none;
+}
+
+.poster_1 {
+  margin-right: 10px;
+  height: 50vh;
+  cursor: pointer;
+}
+.poster_2 {
+  margin-right: 10px;
+  height: 30vh;
+  cursor: pointer;
+}
+
+.row_title {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.close_btn{
+  display: flex;
+  margin: 1rem;
+  font-weight: 400;
+  color: white;
+  justify-content: end;
+  align-items: flex-end;
+  cursor: pointer;
+}
+
+.youtube_stream {
+  margin: auto;
+  width: 60%;
+  border: 1px solid white;
+  z-index: 1;
+}
