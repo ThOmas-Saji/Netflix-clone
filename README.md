@@ -1,7 +1,7 @@
 # Netflix-clone
 The Home page of Netflix
 
-<a href="" > <p> Live view 👈🏼</p></a>
+<a href="https://netflix-clone-eight-ashen.vercel.app/" > <p> Live view 👈🏼</p></a>
 <img src="/public/Images/Netflix-2.png" alt="NF" />
 <br/>
 
