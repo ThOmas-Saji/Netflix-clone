@@ -16,6 +16,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm init`
+
+for dependencies
+
+### `TMDB account with an API key`
+create a TMDB account and generate a api key for getting the movies data.
+
 ### `npm start`
 
 Runs the app in the development mode.\
